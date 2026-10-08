@@ -4,7 +4,7 @@ Format per entry: **Context → Decision → Alternatives → Consequences → S
 
 - Status values: `Proposed` (awaiting the targeted D0 r7 review), `Accepted`, `Superseded`.
   - D0 approval: the seventh independent review (Codex, D0 r7) returned **APPROVE** with zero required changes, so every ADR previously `Proposed` is now `Accepted` as of D0 r7. Decision text, alternatives, consequences and confidence are unchanged; `Medium`/`Low` confidence entries and items marked conditional on D0.5 remain subject to D0.5 evidence.
-  - CHECKPOINT: the approval commit `docs: approve D0 r7 architecture` (full SHA recorded in the follow-up metadata commit `docs: record D0 r7 checkpoint`).
+  - CHECKPOINT: approval commit `b9e2b451f84419d1e9ff95443d3f86f770f14744` (`docs: approve D0 r7 architecture`).
 - Confidence values:
   - `High`: well understood.
   - `Medium`: reasonable; revisit with data or D0.5 evidence.
@@ -68,7 +68,7 @@ The seventh independent review (Codex, targeted re-review of D0 r7) returned ver
 | Required changes | None |
 | Checkpoint readiness | READY |
 
-Scope: specification-level review; no executable implementation exists or was tested. D0 r7 is **APPROVED**; the next phase is **D0.5**. CHECKPOINT: the approval commit `docs: approve D0 r7 architecture` (full SHA recorded in the follow-up metadata commit `docs: record D0 r7 checkpoint`).
+Scope: specification-level review; no executable implementation exists or was tested. D0 r7 is **APPROVED**; the next phase is **D0.5**. CHECKPOINT: approval commit `b9e2b451f84419d1e9ff95443d3f86f770f14744` (`docs: approve D0 r7 architecture`).
 
 ### Sixth review findings (r7)
 

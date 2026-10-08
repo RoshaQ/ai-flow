@@ -9,7 +9,7 @@
 > - Required changes remaining: **zero**.
 > - Review scope: specification-level only. No executable implementation exists or was tested; feasibility assumptions remain to be proven by the D0.5 spikes.
 > - Next phase: **D0.5** (provider & platform feasibility spikes, [`D1_PLAN.md`](./D1_PLAN.md) §2). D0.5 has not started.
-> - Architecture checkpoint: CHECKPOINT: the approval commit `docs: approve D0 r7 architecture` (full SHA recorded in the follow-up metadata commit `docs: record D0 r7 checkpoint`).
+> - Architecture checkpoint (D0 r7): approval commit `b9e2b451f84419d1e9ff95443d3f86f770f14744` (`docs: approve D0 r7 architecture`).
 
 **What changed in r7 (summary).** No redesign and no transaction manager. Everything approved in r6 stands except the two defects below (resolution log R6-M1, R6-M2 in DECISIONS.md):
 
